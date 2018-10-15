@@ -1,3 +1,5 @@
+theme = "beautifulhugo"
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja-jp"
+pygmentsCodeFences = true
+title = "おろログ"
